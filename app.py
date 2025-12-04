@@ -27,7 +27,7 @@ credentials = {
     "usernames": {
         "jaehyun": {
             "name": "재현",
-            "password": "$2b$12$여기에_bcrypt_해시_붙여넣기",  # make_hash.py 결과
+            "password": "$2b$12$c2k8REzvNCDLlI7/3oPw7uN5fRCXaDFfYaoW4DKUFjawJYZ2WxBK.",  # make_hash.py 결과
             "email": "jaehyun@example.com",
             "roles": ["admin"],
         },
